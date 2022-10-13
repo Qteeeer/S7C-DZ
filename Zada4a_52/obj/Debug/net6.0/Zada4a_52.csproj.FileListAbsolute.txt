@@ -1,0 +1,15 @@
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\bin\Debug\net6.0\Zada4a_52.exe
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\bin\Debug\net6.0\Zada4a_52.deps.json
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\bin\Debug\net6.0\Zada4a_52.runtimeconfig.json
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\bin\Debug\net6.0\Zada4a_52.dll
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\bin\Debug\net6.0\Zada4a_52.pdb
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.csproj.AssemblyReference.cache
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.AssemblyInfoInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.AssemblyInfo.cs
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.csproj.CoreCompileInputs.cache
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.dll
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\refint\Zada4a_52.dll
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.pdb
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\Zada4a_52.genruntimeconfig.cache
+C:\Users\ADMINISTRATOR\Desktop\S7C#DZ\Zada4a_52\obj\Debug\net6.0\ref\Zada4a_52.dll
